@@ -1,0 +1,4 @@
+node_modules
+.pnp.js
+git rm --cached .env
+.env
